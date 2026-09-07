@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio Digital - Deiry Sanabria</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header id="inicio">
+    <h1>💻 Mi Portafolio Digital</h1>
+    <h2>Mi proyecto de vida y mi futuro profesional</h2>
+    <p>Deiry Sanabria - Grado 11°</p>
+</header>
+
+<nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#presentacion">Sobre mí</a>
+    <a href="#formacion">Formación</a>
+    <a href="#habilidades">Habilidades</a>
+    <a href="#proyectos">Proyectos</a>
+    <a href="#vida">Proyecto de vida</a>
+    <a href="#futuro">Futuro profesional</a>
+    <a href="#marca">Marca personal</a>
+    <a href="#contacto">Contacto</a>
+</nav>
+
+<section id="presentacion">
+    <h2>👋 Presentación personal</h2>
+
+    <p>
+        ¡Hola! Soy <strong>Deiry Sanabria</strong>, estudiante de grado 11°
+        de la Institución Educativa El Chairá José María Córdoba.
+    </p>
+
+    <p>
+        Me considero una persona con sueños, metas y deseos de salir adelante.
+        Me gusta mucho la programación y la tecnología, porque considero que
+        pueden ayudarme a crear soluciones para diferentes problemas de mi
+        colegio, mi comunidad y mi vida diaria.
+    </p>
+
+    <p>
+        Actualmente estoy en una etapa importante de mi vida, en la que estoy
+        pensando en mi futuro y preparándome para continuar mis estudios
+        después de terminar el colegio.
+    </p>
+
+    <div class="frase">
+        “Aprender hoy para construir con tecnología el futuro que quiero.”
+    </div>
+</section>
+
+<section id="formacion">
+    <h2>🎓 Formación académica</h2>
+
+    <p>
+        Actualmente curso el grado 11° en la Institución Educativa
+        El Chairá José María Córdoba, ubicada en Cartagena del Chairá,
+        Caquetá.
+    </p>
+
+    <p>
+        Durante mi formación académica he adquirido conocimientos en
+        diferentes áreas que me han ayudado a desarrollar nuevas habilidades
+        y a prepararme para mi futuro.
+    </p>
+
+    <p>
+        En el área de informática he aprendido sobre herramientas digitales,
+        programación, creación de páginas web y el uso de herramientas como
+        Google Docs, Sheets, Forms y Slides.
+    </p>
+
+    <p>
+        Estos aprendizajes han despertado mi interés por continuar estudiando
+        algo relacionado con la tecnología.
+    </p>
+</section>
+
+<section id="habilidades">
+    <h2>💻 Mis habilidades</h2>
+
+    <div class="tarjetas">
+
+        <div class="tarjeta">
+            <h3>🌐 Herramientas digitales</h3>
+            <p>Manejo diferentes herramientas digitales.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>💻 Programación</h3>
+            <p>Tengo conocimientos básicos de programación.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>🖥️ Diseño web</h3>
+            <p>Puedo crear páginas web utilizando HTML y CSS.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>🔎 Investigación</h3>
+            <p>Tengo capacidad para investigar y aprender por mi cuenta.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>💡 Creatividad</h3>
+            <p>Busco soluciones creativas a diferentes problemas.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>🤝 Trabajo en equipo</h3>
+            <p>Me gusta colaborar y trabajar junto a otras personas.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>⭐ Responsabilidad</h3>
+            <p>Me esfuerzo por cumplir mis actividades y compromisos.</p>
+        </div>
+
+        <div class="tarjeta">
+            <h3>🚀 Aprendizaje</h3>
+            <p>Tengo interés por aprender nuevas tecnologías.</p>
+        </div>
+
+    </div>
+</section>
+
+<section id="proyectos">
+    <h2>🚀 Proyectos destacados</h2>
+
+    <div class="proyecto">
+        <h3>⚡ Sistema inteligente de monitoreo eléctrico</h3>
+        <p>
+            Uno de mis proyectos consiste en crear un sistema inteligente
+            para monitorear el consumo de electricidad en el hogar.
+            La idea es utilizar la tecnología para conocer mejor el consumo
+            y ayudar a utilizar la energía de una manera más responsable.
+        </p>
+    </div>
+
+    <div class="proyecto">
+        <h3>📚 Recordatorio inteligente escolar</h3>
+        <p>
+            También he pensado en un sistema que pueda ayudar a los
+            estudiantes a recordar qué materiales deben llevar según su
+            horario de clases. Esta idea busca solucionar un problema común
+            utilizando la tecnología.
+        </p>
+    </div>
+
+    <div class="proyecto">
+        <h3>🌐 Portafolio digital</h3>
+        <p>
+            Este portafolio es otro de mis proyectos. Su objetivo es
+            presentar quién soy, mis habilidades, mis proyectos y las
+            metas que quiero alcanzar en mi futuro profesional.
+        </p>
+    </div>
+</section>
+
+<section id="vida">
+    <h2>🎯 Mi proyecto de vida</h2>
+
+    <p>
+        Mi proyecto de vida está relacionado con la tecnología y la
+        programación. Después de terminar el colegio quiero continuar
+        con mis estudios y prepararme profesionalmente en un área
+        relacionada con los sistemas y la tecnología.
+    </p>
+
+    <p>
+        Quiero aprender a desarrollar aplicaciones, páginas web y sistemas
+        que puedan solucionar problemas reales.
+    </p>
+
+    <div class="meta">
+        <h3>🌱 Mis metas a corto plazo</h3>
+        <ul>
+            <li>Terminar satisfactoriamente el grado 11°.</li>
+            <li>Mejorar mis conocimientos de informática.</li>
+            <li>Aprender más sobre programación.</li>
+            <li>Seguir desarrollando proyectos tecnológicos.</li>
+        </ul>
+    </div>
+
+    <div class="meta">
+        <h3>📚 Mis metas a mediano plazo</h3>
+        <ul>
+            <li>Ingresar a una carrera profesional relacionada con sistemas o tecnología.</li>
+            <li>Aprender nuevos lenguajes de programación.</li>
+            <li>Desarrollar aplicaciones y proyectos propios.</li>
+        </ul>
+    </div>
+
+    <div class="meta">
+        <h3>🚀 Mis metas a largo plazo</h3>
+        <ul>
+            <li>Convertirme en un profesional de la tecnología.</li>
+            <li>Crear soluciones innovadoras.</li>
+            <li>Tener estabilidad económica.</li>
+            <li>Utilizar mis conocimientos para ayudar a otras personas.</li>
+            <li>Aportar al desarrollo de mi comunidad.</li>
+        </ul>
+    </div>
+</section>
+
+<section id="futuro">
+    <h2>🌱 Mi futuro profesional</h2>
+
+    <p>
+        Me gustaría que mi futuro profesional estuviera relacionado con
+        la <strong>Ingeniería de Sistemas</strong> o un área similar de
+        la tecnología.
+    </p>
+
+    <p>
+        Me interesa esta área porque combina la creatividad, la solución
+        de problemas y la posibilidad de crear cosas nuevas mediante
+        la programación.
+    </p>
+
+    <p>
+        Sé que para alcanzar mis objetivos necesitaré disciplina,
+        esfuerzo y dedicación. Por eso quiero continuar aprendiendo
+        y aprovechar las oportunidades que tenga para prepararme.
+    </p>
+</section>
+
+<section id="marca">
+    <h2>⭐ Mi marca personal</h2>
+
+    <p>
+        Quiero que las demás personas me reconozcan como alguien
+        responsable, creativo, perseverante y con interés por aprender.
+    </p>
+
+    <p>
+        Mi marca personal se basa en utilizar mis conocimientos y
+        capacidades para crear soluciones útiles y seguir mejorando
+        cada día.
+    </p>
+
+    <div class="frase">
+        “La tecnología no solo sirve para crear, también puede servir para transformar.”
+    </div>
+</section>
+
+<section id="contacto">
+    <h2>📞 Contacto</h2>
+
+    <p><strong>Nombre:</strong> Deiry Sanabria</p>
+    <p><strong>Grado:</strong> 11°</p>
+    <p><strong>Institución:</strong> Institución Educativa El Chairá José María Córdoba</p>
+    <p><strong>Área:</strong> Informática</p>
+    <p><strong>Correo:</strong> __________</p>
+    <p><strong>Teléfono:</strong> _________</p>
+</section>
+
+<footer>
+    <p>💻 Portafolio Digital - Deiry Sanabria</p>
+    <p>✨ Aprender hoy para construir mi futuro ✨</p>
+</footer>
+
+</body>
+</html>
