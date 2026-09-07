@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #eef4f8;
+    color: #263238;
+    line-height: 1.7;
+}
+
+header {
+    background: linear-gradient(135deg, #1565c0, #26a69a);
+    color: white;
+    text-align: center;
+    padding: 70px 20px;
+}
+
+header h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+header h2 {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 19px;
+}
+
+nav {
+    background: white;
+    padding: 16px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.12);
+}
+
+nav a {
+    color: #1565c0;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 8px;
+}
+
+nav a:hover {
+    color: #26a69a;
+}
+
+section {
+    max-width: 1000px;
+    margin: 35px auto;
+    padding: 40px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 5px 18px rgba(0,0,0,0.08);
+}
+
+section h2 {
+    color: #1565c0;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+section h3 {
+    color: #00897b;
+    margin-bottom: 10px;
+}
+
+section p {
+    margin-bottom: 15px;
+}
+
+.frase {
+    margin-top: 25px;
+    padding: 22px;
+    background: #e0f2f1;
+    border-left: 6px solid #00897b;
+    border-radius: 10px;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.tarjetas {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.tarjeta {
+    background: #f1f8ff;
+    padding: 22px;
+    border-radius: 15px;
+    border: 1px solid #d6e8f5;
+}
+
+.tarjeta:hover {
+    transform: translateY(-4px);
+    transition: 0.3s;
+}
+
+.proyecto {
+    background: #f1f8ff;
+    padding: 25px;
+    margin: 18px 0;
+    border-radius: 15px;
+    border-left: 6px solid #1565c0;
+}
+
+.meta {
+    background: #eaf7f5;
+    padding: 25px;
+    margin: 18px 0;
+    border-radius: 15px;
+}
+
+ul {
+    margin-left: 25px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+footer {
+    background: #1565c0;
+    color: white;
+    text-align: center;
+    padding: 35px 20px;
+    margin-top: 50px;
+}
+
+footer p {
+    margin: 5px;
+}
+
+@media (max-width: 700px) {
+
+    header h1 {
+        font-size: 30px;
+    }
+
+    header h2 {
+        font-size: 19px;
+    }
+
+    nav a {
+        display: inline-block;
+        margin: 5px;
+        font-size: 14px;
+    }
+
+    section {
+        margin: 20px 10px;
+        padding: 25px;
+    }
+
+    .tarjetas {
+        grid-template-columns: 1fr;
+    }
+}
